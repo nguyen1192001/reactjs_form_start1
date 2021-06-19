@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"nguyen dep gai",
+        "tel":"0868808175",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"nguyen dep gai",
+        "tel":"0868808175",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"nguyen dep gai",
+        "tel":"0868808175",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"nguyen dep gai",
+        "tel":"0868808175",
+        "permission":3
+    },
+    {
+        "id":5,
+        "name":"nguyen dep gai",
+        "tel":"0868808175",
+        "permission":2
+    }
+]
